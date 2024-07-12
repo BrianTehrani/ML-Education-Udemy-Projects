@@ -1,1 +1,1 @@
-Hello World.
+Folder for classification projects.
